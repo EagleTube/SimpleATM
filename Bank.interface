@@ -1,0 +1,13 @@
+package atiyem;
+
+public interface Bank {
+    public int getID();
+    public int getPin();
+    public double getBalance();
+    public String getUser();
+    public long noPhone();
+    public long icNumber();
+    public void userDisp();
+    public String Display();
+    public void intro();
+}
