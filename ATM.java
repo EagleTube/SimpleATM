@@ -5,8 +5,7 @@ public class ATM
 {
         public static void main(String args[] )
     {   
-        /* Author : Muhammad Aizat Bin Khamis
-              ID  : B081910335
+        /* Author : Eagle Eye
         */
         String newuser;
         int y;
